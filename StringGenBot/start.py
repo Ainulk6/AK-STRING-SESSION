@@ -25,8 +25,8 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [AK Arman 👑](https://t.me/AK_ARMAN_7) !""",
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/+f9ZegEtS4U4wNDdl"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Alllllllllllllllllllllll")
+                    InlineKeyboardButton("dev server", url="https://t.me/max_dev_server"),
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/AK_ARMAN_7")
                 ]
             ]
         ),
